@@ -23,6 +23,7 @@
 - [Why you should start using Snowpack](https://medium.com/javascript-in-plain-english/why-you-should-start-to-use-snowpack-86a9cf999800)
 - [Snowpack + Rollup : A match made in heaven](https://dev.to/rajasegar/snowpack-rollup-a-match-made-in-heaven-22od)
 - [Introducing: Pika CDN + Deno](https://dev.to/pika/introducing-pika-cdn-deno-p8b)
+- [Front-End Development Without Node_modules Using Skypack and Snowpack](https://hackernoon.com/front-end-development-without-node_modules-using-skypack-and-snowpack-s03n33mk)
 
 ### Tutorials
 - [Developing without a Build (1)](https://dev.to/open-wc/developing-without-a-build-1-introduction-26ao)
